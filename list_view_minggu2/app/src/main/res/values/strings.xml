@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">list_view_minggu2</string>
+    <string-array name="countries_array">
+        <item>Indonesia</item>
+        <item>Spanyol</item>
+        <item>Thailand</item>
+        <item>Filipina</item>
+        <item>Malaysia</item>
+        <item>Amerika Serikat</item>
+        <item>Afghanistan</item>
+        <item>Pakistan</item>
+        <item>Jordania</item>
+        <item>Palestina</item>
+
+
+
+    </string-array>
+</resources>
